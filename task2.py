@@ -5,4 +5,4 @@ randomPhrase = " ".join([words[random.randrange(0, len(words))] for i in range(4
 reversePhrase= randomPhrase[::-1]
 
 print(randomPhrase)
-print(reversePhrase)e
+print(reversePhrase)
